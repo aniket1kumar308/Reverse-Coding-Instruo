@@ -55,7 +55,7 @@ Inside the new folder, create the folder named after the respective problem foll
 
 
 * Once you have created your output file for the respective problem, you will see a green color button at the top of your forked repository saying 'Compare and Pull Request'.
-
+![](https://raw.githubusercontent.com/Shibpur-Open-Source-Community/Reverse-Coding-Instruo/master/Screenshot%202017-10-13%2008.20.05%20(3).png)
 
 Click on it to push your changes to the master repo. Its like decorating your own copy of the birthday cake and asking the main baker to update the changes in his cake.
 
