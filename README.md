@@ -54,7 +54,7 @@ Inside the new folder, create the folder named after the respective problem foll
 
 * You created your first Pull Request. Next for other problems, create again a new branch **from master** and repeat the above steps accordingly.
 
-
+------------------------------------------
 
 ###  Check here for more info
 
