@@ -36,7 +36,11 @@ The contest will be held here - [Contest Link](https://github.com/prateekiiest/R
 
 * First when the link opens up, fork the repository. You can see the fork button on the upper right hand side of the main repository   which we call the master repository. Once you have forked it, you will have a copy of the repository under your github account. Its like having a exact copy of  birthday cake prepared by some one else.
 
-* Browse through each of the problems. Try to solve them first on your IDE in any language. Once you have solved the problem, say problem 1 create a new branch in your forked repository by the problem_name `problem-1`. You can see the branch button on top left corner. Once you have created that branch, submit your solution output in the appropriate manner. See below
+* Browse through each of the problems. Try to solve them first on your IDE in any language. Once you have solved the problem, say problem 1 create a new branch in your forked repository by the problem_name `problem-1`. 
+
+![](https://raw.githubusercontent.com/Shibpur-Open-Source-Community/Reverse-Coding-Instruo/master/Screenshot%202017-10-13%2008.20.05%20(2).png)
+
+You can see the branch button on top left corner. Once you have created that branch, submit your solution output in the appropriate manner. See below
 
 * In order to submit your solution, create a folder with your GitHub username under submission folder followed by the folder named after the respective problem and submit only your output file for the given input in the question.
 
@@ -50,7 +54,10 @@ Inside the new folder, create the folder named after the respective problem foll
 
 
 
-* Once you have created your output file for the respective problem, you will see a green color button at the top of your forked repository saying 'Compare and Pull Request'. Click on it to push your changes to the master repo. Its like decorating your own copy of the birthday cake and asking the main baker to update the changes in his cake.
+* Once you have created your output file for the respective problem, you will see a green color button at the top of your forked repository saying 'Compare and Pull Request'.
+
+
+Click on it to push your changes to the master repo. Its like decorating your own copy of the birthday cake and asking the main baker to update the changes in his cake.
 
 * You created your first Pull Request. Next for other problems, create again a new branch **from master** and repeat the above steps accordingly.
 
