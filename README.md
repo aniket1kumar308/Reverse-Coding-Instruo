@@ -4,21 +4,21 @@
 ![](https://raw.githubusercontent.com/Shibpur-Open-Source-Community/Reverse-Coding-Instruo/master/reverse%20coding-01.png)
 
 
-
 -----------------------------------------------------------------------
 
-The reporting time of the event is 9 am on 15th Oct at the PDSIT Labs, IIEST Shibpur. It will be a 90 minutes contest which will be hosted on Github. 
+The reporting time of the event is _9:00 A.M._ on _15th October, 2017_ at the _PDSIT Labs, Main Building, IIEST Shibpur_. It will be a _90 minutes_ contest which will be hosted on _Github_.
 
-Its the first open source platform based event to be held in the campus and its all about Reverse Coding. 
+_Timing of the event:_ 9:45 A.M. - 11:15 A.M.
+_Note:_ Those who have opted for partcipation in onsite venue is requested to reach the said venue by _9:00 A.M._
 
+Its the first open source platform based event to be held in our campus and its all about Reverse Coding. 
 
-The contest will contain four problems. 
+The contest will contain four problems: 
 
-
-* Problem -1
-* Problem -2
-* Problem -3
-* Problem -4
+* Problem - 1
+* Problem - 2
+* Problem - 3
+* Problem - 4
 
   Each of the problems will have a set of input cases and output cases. 
   
@@ -83,5 +83,3 @@ Create a new branch with a Relevant name
 Update the files you want to change
 
 Fill up the details and submit the pull request. 
-
-
