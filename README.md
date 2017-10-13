@@ -6,10 +6,14 @@
 
 -----------------------------------------------------------------------
 
-The reporting time of the event is _**9:00 A.M.**_ on _**15th October, 2017**_ at the _**PDSIT Labs, Main Building, IIEST Shibpur**_. It will be a _**90 minutes**_ contest which will be hosted on _**Github**_.
+The _**reporting time of the event**_ is _**9:00 A.M.**_ on _**15th October, 2017**_ at the _**PDSIT Labs, Main Building, IIEST Shibpur**_. It will be a _**90 minutes**_ contest which will be hosted on _**Github**_.
 
 _**Timing of the event:**_ 9:45 A.M. - 11:15 A.M.
-_**Note:**_ Those who have opted for partcipation in onsite venue is requested to reach the said venue by _9:00 A.M._
+
+_**Note:**_ 
+* Those who have opted for partcipation in onsite venue is requested to reach the said venue by _9:00 A.M._
+* Those who have opted for sit - at - home participation are requested to make their payments through Paytm prior to 9:45 AM, else participation stands cancelled. The registered candidates will be able to access the [Contest Link](https://github.com/prateekiiest/Reverse-Coding) at 9:45 A.M. Someone facing problems with the portal or submission may contact the coordinators for the same.
+* Submission uploaded after 11:15 A.M. will be counted as an invalid submission. No marks will be awarded for the same.
 
 Its the first open source platform based event to be held in our campus and its all about Reverse Coding. 
 
