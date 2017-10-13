@@ -61,6 +61,9 @@ Click on it to push your changes to the master repo. Its like decorating your ow
 
 * You created your first Pull Request. Next for other problems, create again a new branch **from master** and repeat the above steps accordingly.
 
+
+See here how I have created 2 branches for 2 separate problems - My [Code](https://github.com/prateekiiest/Reverse-Coding-Instruo/tree/master)
+
 ------------------------------------------
 
 ###  Check here for more info
